@@ -21,3 +21,4 @@ Algoritmo e lógica de programação:
 7) esperar ficar pronto 
 8) colocar no prato 
 9) comer.
+edit
